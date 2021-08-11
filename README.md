@@ -1,6 +1,6 @@
-![Travel (2)](https://user-images.githubusercontent.com/61210025/129095087-8ec018e3-1cd2-4c55-8ffc-77da12d84308.png)
 
 # Travel Advisor App
+![Travel (2)](https://user-images.githubusercontent.com/61210025/129095087-8ec018e3-1cd2-4c55-8ffc-77da12d84308.png)
 
 This project is created using React.
 
