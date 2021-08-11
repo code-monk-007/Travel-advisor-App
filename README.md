@@ -16,6 +16,6 @@ In this project :
 5). Essentially, a fully functional responsive web portal is created.
 
 ## Live website
-[https://travel-advisor-co07.netlify.app/](url)
+[https://travel-advisor-co07.netlify.app/](url) (please google it)
 
 
